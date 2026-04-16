@@ -1,5 +1,7 @@
 ## franware1
 
+![My photo](LinkedIn%20Senior%20Photo.jpg)
+
 # Hi! My name is Francisco Vu and here's a little bit about me...
 
 Welcome to my Github page! I am student @ UMass Boston and will be graduation this coming May ~!
