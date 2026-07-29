@@ -4,7 +4,7 @@
 
 # Hi! My name is Francisco Vu and here's a little bit about me...
 
-Welcome to my Github page! I am student @ UMass Boston and will be graduation this coming May ~!
+Welcome to my Github page! I recently graduated with a Bachelor's of Science in Computer Science from the University of Massachusetts Boston ~!
 I love open source and am always trying to learn something new everyday about the bleeding edge and the cutting edge.
 The tech world is always on the move and I have to keep pace with the rest of the pack!
 
