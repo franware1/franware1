@@ -12,11 +12,9 @@ The tech world is always on the move and I have to keep pace with the rest of th
 
 I am currently working on:
 
-- Improving my AI aide for electric grid operators to optimize and ensure stability in the electric grid.
-With increasing power demands from the growing AI industry using hungry data centers, the electric grid is going to 
-undertake a lot more load in these coming years. What better idea is there than to allieviate this issue with AI itself!
+- Building an online journal for the intelligentsia to empower the general public with the necessary tools to filter through misinformation and disinformation.
 
-- Improving my home security camera system LocalVision.
+- Building a running shoe company called Trotter
 
 # Frameworks and Languages I have worked with...
 
