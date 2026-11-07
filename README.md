@@ -4,7 +4,7 @@
 
 # Hi! My name is Francisco Vu and here's a little bit about me...
 
-Welcome to my Github page! I recently graduated with a Bachelor's of Science in Computer Science from the University of Massachusetts Boston ~!
+Welcome to my Github page! I graduated with a Bachelor's of Science in Computer Science from the University of Massachusetts Boston ~!
 I love open source and am always trying to learn something new everyday about the bleeding edge and the cutting edge.
 The tech world is always on the move and I have to keep pace with the rest of the pack!
 
@@ -14,7 +14,7 @@ I am currently working on:
 
 - Building an online journal for the intelligentsia to empower the general public with the necessary tools to filter through misinformation and disinformation.
 
-- Building a running shoe company called Trotter
+- Building a fantasy sports app because Underdog has decided to abandon the most fun Best Ball experience I could find.
 
 # Frameworks and Languages I have worked with...
 
